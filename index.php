@@ -9,8 +9,15 @@
 <body>
     <div class="container">
         this is ansu first php web
+
+
     <?php
         echo"hello everyone";          
+        $variabel1 =24;
+        $variabel2 =28;
+        echo $variabel1;
+        echo "<br>";
+        echo $variabel2;
     ?>
     </div>
 </body>
