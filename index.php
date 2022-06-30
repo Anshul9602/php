@@ -18,6 +18,13 @@
         echo $variabel1;
         echo "<br>";
         echo $variabel2;
+        echo "<br>";
+        // addition operator
+        echo"the value of varibel1 + variabel2 is:";
+        echo $variabel1+$variabel2;
+        echo "<br>";
+        echo"the value of varibel1 * variabel2 is:";
+        echo $variabel1*$variabel2;
     ?>
     </div>
 </body>
