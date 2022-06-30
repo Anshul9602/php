@@ -31,7 +31,10 @@
         echo "the value of new variable is:";
         echo $newVar;
         echo "<br>";
+        echo *=2;
+        echo /=2;
         
+
     ?>
     </div>
 </body>
