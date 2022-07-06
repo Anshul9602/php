@@ -33,7 +33,9 @@
         echo "<br>";
         echo *=2;
         echo /=2;
-        
+        // comprazion op
+        echo "the value of 1==4 is :";
+        echo var_dump(1==4);
 
     ?>
     </div>
